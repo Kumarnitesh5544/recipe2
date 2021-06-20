@@ -102,9 +102,9 @@ nav{
 .recipe-xyz{ 
     border-radius: 10px ;
     border:none;
-    margin-bottom: 40px;
-    height:350px;
-    box-shadow: 2px 2px 6px 2px ;
+    margin-bottom: 30px;
+    height:400px;
+    box-shadow: 2px 2px 5px 2px ;
 }
 .recipe-xyz img{
     height:110px;
@@ -207,7 +207,7 @@ nav{
         height: auto;        
     }
     #carouselExampleControls .carousel-item, img{
-        height: auto;
+        height: 100vh;
     }
     .def{
         font-size: 30px;
@@ -428,9 +428,9 @@ nav{
   .recipe-xyz{ 
     border-radius: 10px ;
     border:none;
-    margin-bottom: 40px;
-    height:350px;
-    box-shadow: 2px 2px 6px 2px ;
+    margin-bottom: 30px;
+    height:400px;
+    box-shadow: 2px 2px 5px 2px ;
   }
   .recipe-xyz img{
     height:220px;
@@ -533,7 +533,7 @@ nav{
         height: auto;        
     }
     #carouselExampleControls .carousel-item, img{
-        height: auto;
+        height: 100vh;
     }
     .def{
         font-size: 30px;
@@ -11976,7 +11976,7 @@ nav{
   }
   
   .fgh{
-     text-align:right;
+     text-align:center;
   
   }
   
